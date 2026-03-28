@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Bearflowers is a flower shop with an e-commerce focus, allowing customers to purchase floral products online. The brand name combines &#39;Bear&#39; and &#39;Flowers&#39;, sugg
+
+### חוויית מתנות
+https://example.com/experience
+חוויית מתנות | Bearflowers. דברים לא מעולם הזה
+
+### אודות
+https://example.com/about
+אודות | Bearflowers. דברים לא מעולם הזה
+
+### צור קשר
+https://example.com/contact
+צור קשר | Bearflowers. דברים לא מעולם הזה
+
+### Products
+https://example.com/products
+המוצרים שלנו - Bearflowers
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Bearflowers
+
+### Category
+https://example.com/category/:slug
+מוצרים - Bearflowers
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
